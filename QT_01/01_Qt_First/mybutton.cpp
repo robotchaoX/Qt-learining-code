@@ -4,7 +4,7 @@
 //构造函数
 MyButton::MyButton(QWidget *parent) : QPushButton(parent)
 {
- qDebug() << "MyButton的构造调用！";
+    qDebug() << "MyButton的构造调用！";
 }
 
 //析构函数

@@ -12,6 +12,7 @@ class MyButton : public QPushButton
 public:
     explicit MyButton(QWidget *parent = 0);
     ~MyButton();
+
 signals:
 
 public slots:
