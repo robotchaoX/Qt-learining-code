@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/"/>
+    <qresource prefix="/221">
+        <file>Image/Luffy.png</file>
+        <file>Image/Sunny.jpg</file>
+        <file>Image/butterfly1.png</file>
+        <file>Image/Frame.jpg</file>
+        <file>Image/mario.gif</file>
+        <file>Image/OnePiece.png</file>
+        <file>Image/sunny.png</file>
+        <file>Image/butterfly.png</file>
+        <file>Image/down.png</file>
+        <file>Image/LuffyQ.png</file>
+        <file>Image/up.png</file>
+        <file>mainwindow.cpp</file>
+        <file>mainwindow_copy.cpp</file>
+    </qresource>
+    <qresource prefix="/new/prefix1">
+        <file>Image/OnePiece.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>Image/Luffy.png</file>
+    </qresource>
+</RCC>
